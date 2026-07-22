@@ -1,0 +1,8 @@
+{
+  "name": "bmis-frontend-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vite"
+  }
+}
