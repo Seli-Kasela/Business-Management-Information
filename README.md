@@ -1,66 +1,95 @@
-# Business-Management-Information
+# Business Management Information (BMIS)
 
-Open-source Business Management Information System (BMIS) research, documentation, architecture, and implementation.
+> An open-source Business Management Information System (BMIS) for digital business operations, analytics, project management, customer relationship management, and decision support.
 
-## Overview
+## 📖 Overview
 
-An open-source Business Management Information System (BMIS) designed to support digital business operations, management decision-making, financial monitoring, customer relationship management, inventory management, project tracking, and business analytics.
+Business Management Information (BMIS) is an open-source platform designed to help organizations manage business operations through a secure, scalable, and modular information system. The project combines software engineering best practices with academic research to support digital transformation across multiple industries.
 
-## Features
+## ✨ Features
 
-- Dashboard
-- CRM
-- Human Resources
-- Accounting
-- Inventory Management
-- Marketing Analytics
-- AI Business Assistant
-- Reporting
-- Document Management
-- Project Management
-- Role-Based Access Control
+- 📊 Executive Dashboard
+- 👥 Customer Relationship Management (CRM)
+- 💼 Human Resource Management
+- 💰 Accounting & Finance
+- 📦 Inventory Management
+- 📈 Marketing Analytics
+- 🤖 AI Business Assistant
+- 📝 Reporting & Business Intelligence
+- 📂 Document Management
+- 📅 Project Management
+- 🔐 Role-Based Access Control (RBAC)
 
-## Research Objectives
+## 🎯 Research Objectives
 
-- Design an integrated BMIS architecture.
+- Design a scalable BMIS architecture.
 - Improve organizational efficiency through digital transformation.
-- Evaluate decision-support mechanisms.
 - Develop an open-source reference implementation.
+- Evaluate business decision-support mechanisms.
 - Publish peer-reviewed research based on the project.
 
-## Technology Stack (planned)
+## 🏗️ Planned Technology Stack
 
-- React
-- Node.js
-- PostgreSQL
-- FastAPI
-- Docker
-- GitHub Actions
-- OpenAPI
-- JWT Authentication
+| Layer | Technology |
+|-------|------------|
+| Frontend | React |
+| Backend | FastAPI / Node.js |
+| Database | PostgreSQL |
+| Authentication | JWT |
+| API | OpenAPI |
+| DevOps | Docker, GitHub Actions |
 
-## Milestones
+## 📁 Repository Structure
 
-Phase 1
+```
+docs/
+src/
+database/
+diagrams/
+tests/
+references/
+```
+
+## 🗺️ Roadmap
+
+### Phase 1
 - Repository setup
 - Documentation
 - Research proposal
 
-Phase 2
+### Phase 2
 - System architecture
 - Database design
 - API specification
 
-Phase 3
+### Phase 3
 - Application development
 - Testing
-- Evaluation
+- Performance evaluation
 
-Phase 4
+### Phase 4
 - Journal publication
 - Open-source release
 - Community contributions
 
----
+## 🤝 Contributing
 
-This repository now contains a scaffold with documentation and starter files. See the top-level directories for details.
+Contributions are welcome. Please open an issue or submit a pull request to discuss improvements.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👤 Author
+
+**Seli Kasela**
+
+Seli Kasela Digital Creative Studio Publications
+
+Bali, Indonesia
+
+GitHub: https://github.com/Seli-Kasela
+
+## 📚 Citation
+
+If you use this project in research, please cite this repository in your publication.
